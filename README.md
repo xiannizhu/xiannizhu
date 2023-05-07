@@ -53,17 +53,15 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h1 align="center">Hi 👋, I'm Xian ni Zhu</h1>
+- 🔭 I’m working as **front-end developer**
 
-###
+- 🌱 I’m currently learning **Javascript and python**
 
-<div align="left">
-</div>
+- 📫 How to reach me **xiannizhu31@gmail.com**
 
-###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
 
-###
