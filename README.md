@@ -17,7 +17,7 @@
 ###
 
 <h1 align="center">Hey there 👋 I'm Xian ni Zhu</h1>
-<h3 align="center">A chinese front-end developer in Italy</h3>
+<h3 align="center">A chinese girl in Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xiannizhu&label=Profile%20views&color=0e75b6&style=flat" alt="xiannizhu" /> </p>
 
