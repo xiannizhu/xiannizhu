@@ -23,8 +23,17 @@
 <h3 align="left">👩🏻‍💻  About Me</h3>
 
 ###
+<h1 align="center">Hi 👋, I'm Xian ni Zhu</h1>
+- 🔭 I’m working as **front-end developer**
 
-<p align="left">- ☀️ I’m working as a front-end developer<br>- 📝 I'm currently learning Javascript and python<br>- 💻 In my free time I like watch TV series<br>- 📫 How to reach me **xiannizhu31@gmail.com**</p>
+- 🌱 I’m currently learning **Javascript and python**
+
+- 📫 How to reach me **xiannizhu31@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 
 ###
 
