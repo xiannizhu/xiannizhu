@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xiannizhu&label=Profile%20views&color=0e75b6&style=flat" alt="xiannizhu" /> </p>
 
 
-- 🔭 I’m working as **front-end developer**
+- 👩🏻‍💻 I’m working as **front-end developer**
 
-- 🌱 I’m currently learning **Javascript and python**
+- 📝 I’m currently learning **Javascript and python**
 
 - 💻 In my free time I like **watch TV series**
 
