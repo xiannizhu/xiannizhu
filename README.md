@@ -23,7 +23,6 @@
 <h3 align="left">👩🏻‍💻  About Me</h3>
 
 ###
-<h1 align="center">Hi 👋, I'm Xian ni Zhu</h1>
 - 🔭 I’m working as **front-end developer**
 
 - 🌱 I’m currently learning **Javascript and python**
