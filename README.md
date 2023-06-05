@@ -9,7 +9,7 @@
 
 - 📝 I’m currently learning **Javascript and python**
 
-- 💻 In my free time I like **k-dramma**
+- 💻 In my free time I like **k-drama and play gomoku**
 
 - 📫 How to reach me **xiannizhu31@gmail.com**
 
