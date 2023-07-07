@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Javascript and python**
 
-- 👀 Take a look on my[Site](https://xiannizhu.com/)
+- 👀 Take a look on my [Site](https://xiannizhu.com/)
 
 - 📫 How to reach me **xiannizhu31@gmail.com**
 
