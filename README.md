@@ -10,7 +10,7 @@
 
 - 👀 Take a look on my [Site](https://xiannizhu.com/)
 
-- 📫 How to reach me **xiannizhu31@gmail.com**
+- 📫 How to reach me **xianni.zhu31@gmail.com**
 
 - 🍿 In my free time I like **watch K-dramma and play Gomoku**
 
